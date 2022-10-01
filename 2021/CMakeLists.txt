@@ -12,7 +12,8 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/bin)
 # add the executable
 add_executable(AOC2021 main.cpp
 Day1/day1.cpp
-Day2/day2.cpp)
+Day2/day2.cpp
+Day3/day3.cpp)
 
 
 
