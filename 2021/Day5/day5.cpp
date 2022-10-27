@@ -97,5 +97,29 @@ int day5part1(){
 }
 
 int day5part2(){
-    return 0;
+   for(line l: lines){
+        if(l.x1 == l.x2 && l.y1 == l.y2){
+            
+        }
+        if(l.x1 == l.x2){
+            if(l.y1 < l.y2){
+                for(int j = l.y1;j <= l.y2;j++)
+                    vents[j][l.x1] += 1;
+            }
+        else{
+            for(int j = l.y1;j >= l.y2;j--)
+                    vents[j][l.x1] += 1;
+            }
+        }
+        if(l.y1 == l.y2){
+            if(l.x1 < l.x2){
+                 for(int j = l.x1;j <= l.x2;j++)
+                    vents[l.y1][j] += 1;
+            }
+        else{
+            for(int j = l.x1;j >= l.x2;j--)
+                    vents[l.y1][j] += 1;
+            }
+        }
+    }
 }
