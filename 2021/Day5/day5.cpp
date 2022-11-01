@@ -51,12 +51,19 @@ void readInput(){
 }
 
 void printVents(){
+    std::cout << std::endl;
     for(int x = 0;x < vents[0].size(); x++){
         for(int y = 0;y < vents.size();y++){
             std::cout << vents[x][y];
         }
         std::cout << std::endl;
     }
+}
+
+void clearVents(){
+    for(int y = 0; y <= biggestY;y++)
+        for(int x = 0; x <= biggestX;x++)
+            vents[y][x] = 0;
 }
 
 int totalPoints(){
@@ -97,9 +104,25 @@ int day5part1(){
 }
 
 int day5part2(){
-   for(line l: lines){
-        if(l.x1 == l.x2 && l.y1 == l.y2){
-            
+    clearVents();
+    for(line l: lines){
+        if(abs(l.x1-l.x2) - abs(l.y1-l.y2) == 0){
+                int counter = abs(l.x1 - l.x2);
+                bool xDown = l.x1 >= l.x2;
+                bool yDown = l.y1 >= l.y2;
+                int tempX = l.x1;
+                int tempY = l.y1;
+                for (int p = 0; p <= counter; p++){
+                    vents[tempY][tempX] += 1;
+                    if (xDown)
+                        tempX--;
+                    else
+                        tempX++;
+                    if(yDown)
+                        tempY--;
+                    else
+                        tempY++;
+            }
         }
         if(l.x1 == l.x2){
             if(l.y1 < l.y2){
@@ -122,4 +145,5 @@ int day5part2(){
             }
         }
     }
+   return totalPoints();
 }
