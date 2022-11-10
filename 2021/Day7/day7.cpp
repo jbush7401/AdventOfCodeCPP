@@ -3,7 +3,6 @@
 #include <fstream>
 #include <string>
 #include <sstream>
-#include <algorithm>
 
 std::vector<int> crabs;
 int maxCrab = 0;
