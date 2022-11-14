@@ -1,0 +1,3 @@
+/home/ubuntu/dev/aoc/2021/build/CMakeFiles/AOC2021.dir
+/home/ubuntu/dev/aoc/2021/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/aoc/2021/build/CMakeFiles/rebuild_cache.dir

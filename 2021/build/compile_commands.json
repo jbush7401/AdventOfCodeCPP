@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/main.cpp.o -c /home/ubuntu/dev/aoc/2021/main.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day1/day1.cpp.o -c /home/ubuntu/dev/aoc/2021/Day1/day1.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day1/day1.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day2/day2.cpp.o -c /home/ubuntu/dev/aoc/2021/Day2/day2.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day2/day2.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day3/day3.cpp.o -c /home/ubuntu/dev/aoc/2021/Day3/day3.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day3/day3.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day4/day4.cpp.o -c /home/ubuntu/dev/aoc/2021/Day4/day4.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day4/day4.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day5/day5.cpp.o -c /home/ubuntu/dev/aoc/2021/Day5/day5.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day5/day5.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day6/day6.cpp.o -c /home/ubuntu/dev/aoc/2021/Day6/day6.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day6/day6.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day7/day7.cpp.o -c /home/ubuntu/dev/aoc/2021/Day7/day7.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day7/day7.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day8/day8.cpp.o -c /home/ubuntu/dev/aoc/2021/Day8/day8.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day8/day8.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day9/day9.cpp.o -c /home/ubuntu/dev/aoc/2021/Day9/day9.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day9/day9.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day10/day10.cpp.o -c /home/ubuntu/dev/aoc/2021/Day10/day10.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day10/day10.cpp"
+}
+]
