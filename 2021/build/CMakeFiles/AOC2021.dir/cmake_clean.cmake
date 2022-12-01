@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/AOC2021.dir/Day1/day1.cpp.o.d"
   "CMakeFiles/AOC2021.dir/Day10/day10.cpp.o"
   "CMakeFiles/AOC2021.dir/Day10/day10.cpp.o.d"
+  "CMakeFiles/AOC2021.dir/Day11/day11.cpp.o"
+  "CMakeFiles/AOC2021.dir/Day11/day11.cpp.o.d"
   "CMakeFiles/AOC2021.dir/Day2/day2.cpp.o"
   "CMakeFiles/AOC2021.dir/Day2/day2.cpp.o.d"
   "CMakeFiles/AOC2021.dir/Day3/day3.cpp.o"

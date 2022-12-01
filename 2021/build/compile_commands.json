@@ -53,5 +53,10 @@
   "directory": "/home/ubuntu/dev/aoc/2021/build",
   "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day10/day10.cpp.o -c /home/ubuntu/dev/aoc/2021/Day10/day10.cpp",
   "file": "/home/ubuntu/dev/aoc/2021/Day10/day10.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2021/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2021.dir/Day11/day11.cpp.o -c /home/ubuntu/dev/aoc/2021/Day11/day11.cpp",
+  "file": "/home/ubuntu/dev/aoc/2021/Day11/day11.cpp"
 }
 ]
