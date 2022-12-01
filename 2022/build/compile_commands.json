@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubuntu/dev/aoc/2022/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2022.dir/main.cpp.o -c /home/ubuntu/dev/aoc/2022/main.cpp",
+  "file": "/home/ubuntu/dev/aoc/2022/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2022/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2022.dir/Day1/day1.cpp.o -c /home/ubuntu/dev/aoc/2022/Day1/day1.cpp",
+  "file": "/home/ubuntu/dev/aoc/2022/Day1/day1.cpp"
+}
+]
