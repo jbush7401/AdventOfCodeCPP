@@ -13,5 +13,10 @@
   "directory": "/home/ubuntu/dev/aoc/2022/bin",
   "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2022.dir/Day2/day2.cpp.o -c /home/ubuntu/dev/aoc/2022/Day2/day2.cpp",
   "file": "/home/ubuntu/dev/aoc/2022/Day2/day2.cpp"
+},
+{
+  "directory": "/home/ubuntu/dev/aoc/2022/bin",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/AOC2022.dir/Day3/day3.cpp.o -c /home/ubuntu/dev/aoc/2022/Day3/day3.cpp",
+  "file": "/home/ubuntu/dev/aoc/2022/Day3/day3.cpp"
 }
 ]
