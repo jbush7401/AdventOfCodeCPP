@@ -81,12 +81,12 @@ clean: CMakeFiles/AOC2022.dir/clean
 CMakeFiles/AOC2022.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2022.dir/build.make CMakeFiles/AOC2022.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2022.dir/build.make CMakeFiles/AOC2022.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ubuntu/dev/aoc/2022/bin/CMakeFiles --progress-num=1,2,3,4,5 "Built target AOC2022"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ubuntu/dev/aoc/2022/bin/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target AOC2022"
 .PHONY : CMakeFiles/AOC2022.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AOC2022.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ubuntu/dev/aoc/2022/bin/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ubuntu/dev/aoc/2022/bin/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/AOC2022.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ubuntu/dev/aoc/2022/bin/CMakeFiles 0
 .PHONY : CMakeFiles/AOC2022.dir/rule

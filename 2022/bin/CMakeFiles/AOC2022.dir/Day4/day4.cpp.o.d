@@ -1,5 +1,5 @@
-CMakeFiles/AOC2022.dir/main.cpp.o: /home/ubuntu/dev/aoc/2022/main.cpp \
- /usr/include/stdc-predef.h /home/ubuntu/dev/aoc/2022/Day4/day4.h \
+CMakeFiles/AOC2022.dir/Day4/day4.cpp.o: \
+ /home/ubuntu/dev/aoc/2022/Day4/day4.cpp /usr/include/stdc-predef.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -145,6 +145,8 @@ CMakeFiles/AOC2022.dir/main.cpp.o: /home/ubuntu/dev/aoc/2022/main.cpp \
  /usr/include/c++/11/bits/locale_facets.tcc \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/chrono \
- /usr/include/c++/11/ratio /usr/include/c++/11/limits \
- /usr/include/c++/11/ctime /usr/include/c++/11/bits/parse_numbers.h
+ /usr/include/c++/11/bits/istream.tcc /usr/include/c++/11/fstream \
+ /usr/include/c++/11/bits/codecvt.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
+ /usr/include/c++/11/bits/fstream.tcc

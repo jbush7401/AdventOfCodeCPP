@@ -13,4 +13,5 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/bin)
 add_executable(AOC2022 main.cpp
 Day1/day1.cpp
 Day2/day2.cpp
-Day3/day3.cpp)
+Day3/day3.cpp
+Day4/day4.cpp)

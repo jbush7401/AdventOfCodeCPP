@@ -201,6 +201,30 @@ Day3/day3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2022.dir/build.make CMakeFiles/AOC2022.dir/Day3/day3.cpp.s
 .PHONY : Day3/day3.cpp.s
 
+Day4/day4.o: Day4/day4.cpp.o
+.PHONY : Day4/day4.o
+
+# target to build an object file
+Day4/day4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2022.dir/build.make CMakeFiles/AOC2022.dir/Day4/day4.cpp.o
+.PHONY : Day4/day4.cpp.o
+
+Day4/day4.i: Day4/day4.cpp.i
+.PHONY : Day4/day4.i
+
+# target to preprocess a source file
+Day4/day4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2022.dir/build.make CMakeFiles/AOC2022.dir/Day4/day4.cpp.i
+.PHONY : Day4/day4.cpp.i
+
+Day4/day4.s: Day4/day4.cpp.s
+.PHONY : Day4/day4.s
+
+# target to generate assembly for a file
+Day4/day4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2022.dir/build.make CMakeFiles/AOC2022.dir/Day4/day4.cpp.s
+.PHONY : Day4/day4.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -243,6 +267,9 @@ help:
 	@echo "... Day3/day3.o"
 	@echo "... Day3/day3.i"
 	@echo "... Day3/day3.s"
+	@echo "... Day4/day4.o"
+	@echo "... Day4/day4.i"
+	@echo "... Day4/day4.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

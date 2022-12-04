@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/ubuntu/dev/aoc/2022/Day1/day1.cpp" "CMakeFiles/AOC2022.dir/Day1/day1.cpp.o" "gcc" "CMakeFiles/AOC2022.dir/Day1/day1.cpp.o.d"
   "/home/ubuntu/dev/aoc/2022/Day2/day2.cpp" "CMakeFiles/AOC2022.dir/Day2/day2.cpp.o" "gcc" "CMakeFiles/AOC2022.dir/Day2/day2.cpp.o.d"
   "/home/ubuntu/dev/aoc/2022/Day3/day3.cpp" "CMakeFiles/AOC2022.dir/Day3/day3.cpp.o" "gcc" "CMakeFiles/AOC2022.dir/Day3/day3.cpp.o.d"
+  "/home/ubuntu/dev/aoc/2022/Day4/day4.cpp" "CMakeFiles/AOC2022.dir/Day4/day4.cpp.o" "gcc" "CMakeFiles/AOC2022.dir/Day4/day4.cpp.o.d"
   "/home/ubuntu/dev/aoc/2022/main.cpp" "CMakeFiles/AOC2022.dir/main.cpp.o" "gcc" "CMakeFiles/AOC2022.dir/main.cpp.o.d"
   )
 
